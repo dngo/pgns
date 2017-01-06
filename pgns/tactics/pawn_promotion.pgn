@@ -1,0 +1,119 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "J. Polgar"]
+[Black "Gdanski"]
+[Result "1-0"]
+[Annotator "T3Z"]
+[SetUp "1"]
+[FEN "r4rk1/pp1b3p/2n1pBpP/3pPp2/q1pP4/2P2NQ1/2PKBPP1/7R w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1993.??.??"]
+[EventType "swiss"]
+[EventCountry "HUN"]
+
+1. Qxg6+ hxg6 2. h7+ Kf7 3. h8=Q Rxh8 4. Ng5+ Ke8 5. Rxh8# 1-0
+
+[Event "England"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Patience"]
+[Black "Tilson"]
+[Result "1-0"]
+[Annotator "T3W"]
+[SetUp "1"]
+[FEN "4r2k/1p2r2P/p2p2pB/2p2q2/3b4/5P2/PP1Q2K1/4R2R w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1964.??.??"]
+[EventType "team"]
+
+1. Qxd4+ cxd4 2. Bg7+ Kxg7 3. Rxe7+ Rxe7 4. h8=Q+ Kf7 5. Rh7+ Ke6 6. Qc8+ Kf6
+7. Qf8+ 1-0
+
+[Event "Fernpartie"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Sabo"]
+[Black "Nikitin"]
+[Result "1-0"]
+[Annotator "T3Z"]
+[SetUp "1"]
+[FEN "6rk/2nbNq1p/3p1PpR/2pPp1P1/1nBbP3/2N3K1/1P6/2B4Q w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1964.??.??"]
+[EventType "team"]
+
+1. Rxh7+ Qxh7 2. f7 Rd8 3. Nxg6+ Kg7 4. f8=Q+ Rxf8 5. Qxh7+ Kxh7 6. Nxf8+ Kg7
+7. Nxd7 1-0
+
+[Event "Hallsberg"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Vedder"]
+[Black "Barkhagen"]
+[Result "0-1"]
+[Annotator "T3W"]
+[SetUp "1"]
+[FEN "8/5q1k/p1b4p/1p5P/4p3/4Q1N1/1N3pPK/8 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "1992.??.??"]
+[EventType "match"]
+[EventRounds "2"]
+
+1... Qxh5+ 2. Nxh5 f1=N+ 3. Kg1 Nxe3 0-1
+
+[Event "Fernpartie"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Wolf"]
+[Black "Grebnich"]
+[Result "1-0"]
+[Annotator "T3A"]
+[SetUp "1"]
+[FEN "r2k3r/pp1P1Rpp/4q3/5p2/5n2/P7/1P3PPP/2R1Q1K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1992.??.??"]
+[EventType "team"]
+
+1. Qa5+ b6 (1... Qb6 2. Qxf5) 2. Qxa7 Qe1+ 3. Rxe1 Rxa7 4. Re8+ Rxe8 5. dxe8=Q+
+Kxe8 6. Rxa7 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1883.??.??"]
+[Round "?"]
+[White "Zukertort"]
+[Black "Englisch"]
+[Result "1-0"]
+[Annotator "T3W"]
+[SetUp "1"]
+[FEN "4k3/p1P3p1/2q1np1p/3N4/8/1Q3PP1/6KP/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1883.??.??"]
+[EventType "simul"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+
+1. Qb5 $1 Qxb5 2. c8=Q+ Kf7 3. Qxe6+ Kxe6 4. Nc7+ 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Schafranka"]
+[Black "Brynell"]
+[Result "0-1"]
+[Annotator "T3W"]
+[SetUp "1"]
+[FEN "7k/6rp/3qP3/1p1P4/p4r2/P6P/1P1Q2p1/3NR1K1 b - - 0 1"]
+[PlyCount "9"]
+[EventDate "1990.??.??"]
+[EventType "swiss"]
+[EventCountry "ENG"]
+
+1... Rf1+ 2. Rxf1 Qh2+ 3. Kxh2 gxf1=N+ 4. Kh1 Nxd2 5. d6 Nf3 0-1
